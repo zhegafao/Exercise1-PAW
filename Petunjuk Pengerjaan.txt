@@ -1,0 +1,13 @@
+Petunjuk:
+
+1. Lanjutkan projek praktikum Rental Kendaraan anda yang sudah dibuat.
+2. Sesuaikan desain tampilan projek anda sesuai pada gambar yang diberikan.
+3. Ketika klik setiap menu di daftar rental akan menampilkan sesuai masing-masing halaman
+4. Drop down yang semula ID Foreign Key pada tampilan di CRUD, berubah menjadi nama sesuai desain tampilan dan fungsi berjalan semestinya
+5. Boleh diskusi dengan teman, tetapi dilarang sharing code.
+6. Silahkan gunakan www.google.com jika merasa kesulitan.
+7. Waktu pengerjaan selama 1 jam 30 menit, mulai 11.00 sampai 12.30
+8. Pukul 12.30-13.00 adalah waktu untuk push ke github dan upload ke myKlass. Lakukan commit, dan push ke github (Tidak perlu membuat repository baru, lanjutkan projek yang sudah ada, jadi cukup commit dan push saja)
+9. Pukul 13.00 uploader myKlass akan tertutup secara otomatis.
+
+Silahkan mengerjakan.
